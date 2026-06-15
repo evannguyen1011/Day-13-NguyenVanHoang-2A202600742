@@ -1,0 +1,21 @@
+{
+  "team": "NguyenVanHoang-2A202600742",
+  "phase": "private",
+  "headline": 91.47,
+  "sub": {
+    "correct": 0.7075,
+    "quality": 0.8245,
+    "error": 1.0,
+    "latency": 0.6019,
+    "cost": 0.0,
+    "drift": 0.5338,
+    "prompt": 0.8057
+  },
+  "diag_f1": 1.0,
+  "n": 80,
+  "n_correct": 53,
+  "judge_mode": "offline",
+  "weights_hash": "e81a8ed58d93",
+  "key_hash": "7e3905b75db0",
+  "sig": "95f84407c76bbb68da1ca3e7a7eb0f496097fede3dec7e40603248c4beb15190"
+}
